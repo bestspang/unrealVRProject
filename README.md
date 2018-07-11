@@ -1,4 +1,4 @@
-﻿﻿# Unreal VR Project
+## Unreal VR Project
 
 **Unreal VR Project** is VR ARCHVIZ template project that I've built from scratch.
 the goal is to build a very simple and understandable template, 
