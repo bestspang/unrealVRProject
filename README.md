@@ -22,7 +22,7 @@ the teleport distance
 - limited teleport area by measure the hit surface normal
 - allow to choose which direction by rotate thumbstick
 
-## Updates
+## [Updates](https://github.com/bestspang/unrealVRProject/blob/master/VERSIONS.md)
 
 ### Version 0.02
 
